@@ -20,10 +20,9 @@ Hi, I'm **Akshata Salunkhe**, a passionate Data Engineer and AI enthusiast based
 - Diving into **data visualization** with Tableau & advanced Python libraries.  
 - Currently working on a dashboard for **economic indicators** and **data automation** tools.
 
-💻 **Tech I'm into**:  
-Python | SQL | T-SQL | Apache Airflow | PySpark | AWS | Tableau | Azure
 
-🎯 **Always learning**: Improving my skills in **full-stack development** (React, Django) and enhancing **cloud migration** strategies.  
+
+🎯 **Always learning**: Improving my skills in problem sovling and software developing skills.  
 
 📬 Let’s connect: salunkhe10@usf.edu 
 
