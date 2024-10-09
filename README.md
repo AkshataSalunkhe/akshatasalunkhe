@@ -43,6 +43,16 @@ Hi, I'm **Akshata Salunkhe**, a passionate Data Engineer and AI enthusiast based
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
+## Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/AkshataSalunkhe/">
+    <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode" width="80"/>
+  </a>
+  <a href="https://hackerrank.com/profile/akshsalunkhe69">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80"/>
+  </a>
+</p>
 
 
 
