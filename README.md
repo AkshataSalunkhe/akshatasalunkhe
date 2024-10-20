@@ -42,6 +42,12 @@ Hi, I'm **Akshata Salunkhe**, a passionate Data Engineer and AI enthusiast based
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkshataSalunkhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkshataSalunkhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataSalunkhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## Coding Profiles
 
