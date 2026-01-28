@@ -10,21 +10,19 @@
 
 ---
 
-Hi, I'm **Akshata Salunkhe**, a passionate Data Engineer and AI enthusiast based in Tampa, FL.  
-📚 Currently pursuing my Master’s in Artificial Intelligence & Business Analytics @USF.  
-🚀 With 2+ years of experience in data engineering, I thrive on building efficient, scalable ETL pipelines and crafting impactful data visualizations.  
-💡 I'm fascinated by how data can transform businesses and make smarter decisions.
+Hi, I’m **Akshata Salunkhe**, a passionate **Data Analyst at DHL Express** and an AI & senior data analyst enthusiast based in **Plantation, FL**.  
+📚 Graduated from University of South Florida, Tampa **Master’s in Artificial Intelligence & Business Analytics**.  
+🚀 With **3+ years of experience** across data analytics and data engineering, I enjoy building **scalable ETL pipelines**, automating workflows, and delivering **impactful dashboards** for operational decision-making.  
+💡 I’m fascinated by how **data, automation, and analytics** can transform businesses and drive smarter decisions.
 
-🌱 **What I'm up to**:  
-- Exploring **cloud computing** (AWS, Azure) and automating workflows.  
-- Diving into **data visualization** with Tableau & advanced Python libraries.  
-- Currently working on a dashboard for **economic indicators** and **data automation** tools.
+🌱 **What I’m up to**:  
+- Automating **data pipelines and reporting workflows** using oython, Power Automate, Dataiku 
+- Exploring **cloud platforms** (AWS, Azure) for scalable analytics  
+- Building and enhancing **Power BI & Tableau dashboards** using Python and SQL  
 
+🎯 **Always learning**: Strengthening my **problem-solving, software development, and analytical skills**.  Mathematics is my love, alawys enjoy playing with numbers. 
 
-
-🎯 **Always learning**: Improving my skills in problem sovling and software developing skills.  
-
-📬 Let’s connect: salunkhe10@usf.edu 
+📬 **Let’s connect**: akshatapsalunkhe@gmail.com
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
